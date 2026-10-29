@@ -1,0 +1,26 @@
+#AI declaration
+We used Claude (Anthropic) as a support tool during this deliverable, mainly for
+tasks 3, 4 and 5.
+
+**What we asked about:**
+- Suggestions for how to solve tasks 3, 4 and 5, and explanations of the code
+  line by line
+- Which parts of the code were covered in the lectures, and how to write
+  type hints, docstrings and comments according to the course
+- Debugging: a regex error in task 1 (`\.+?` instead of `.+?`), an indentation
+  error in task 4, and a missing `data` folder
+- Help with Git when we had problems committing and pushing
+- What the output tables show, and how to interpret the results
+
+**How AI contributed:**
+- Claude suggested the first versions of the functions in tasks 3, 4 and 5,
+  which we then modified, tested and integrated with our own code from tasks 1 and 2
+- It helped us find and fix errors, and explained why they happened
+- It suggested drafts for the discussion texts and the video script, which we
+  rewrote and adjusted to our own results
+
+**Our own work:**
+We tested all code ourselves on our generated data, made our own choices
+(for example function names, the handling of missing status columns, and the
+JSON format for hourly revenue), and made sure we understand and can explain
+all of the code.
