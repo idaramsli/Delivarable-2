@@ -1,10 +1,9 @@
 #AI declaration
-We used Claude (Anthropic) as a support tool during this deliverable, mainly for
-tasks 3, 4 and 5.
+We used Claude (Anthropic) as a support tool during this delivereable.
 
 **What we asked about:**
-- Suggestions for how to solve tasks 3, 4 and 5, and explanations of the code
-  line by line
+- Suggestions for how to solve the tasks, and explanations of the code
+  line by line when needed
 - Which parts of the code were covered in the lectures, and how to write
   type hints, docstrings and comments according to the course
 - Debugging: a regex error in task 1 (`\.+?` instead of `.+?`), an indentation
